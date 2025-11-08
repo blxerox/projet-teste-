@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Marie Dupont",
+    "email": "marie.dupont@example.com",
+    "birthday": "1992-04-25"
+  },
+  {
+    "name": "Jean Martin",
+    "email": "jean.martin@example.com",
+    "birthday": "1988-07-12"
+  },
+  {
+    "name": "Amina Diallo",
+    "email": "amina.diallo@example.com",
+    "birthday": "1995-11-03"
+  },
+  {
+    "name": "Lucas Bernard",
+    "email": "lucas.bernard@example.com",
+    "birthday": "1990-02-18"
+  },
+  {
+    "name": "Sofia Rossi",
+    "email": "sofia.rossi@example.com",
+    "birthday": "1993-09-30"
+  }
+]
